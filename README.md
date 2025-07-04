@@ -109,5 +109,5 @@ Especialista en Ciberseguridad & Desarrollador
 
 ## 📬 Contacto
 
-- 🌐 [https://zelmar.dev](https://zelmar.dev) *(o reemplazar por tu sitio si tenés)*
-- 📧 zelmar@example.com *(reemplazar)*
+- 🌐 [https://zelmar.dev](https://zelmar.dev)
+- 📧 zelmar@codesociety.com
