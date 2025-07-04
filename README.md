@@ -85,7 +85,6 @@ Aplica control de acceso obligatorio para procesos.
 
 ## 🎨 Estética
 
-> Diseñado con un estilo retro oscuro tipo terminal hacker 💀  
 > Colores oscuros, líneas de comando, estilo minimalista profesional.
 
 ---
